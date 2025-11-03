@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Équipe - Centre Équestre des Collines</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Notre Équipe</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="activites.html">Activités</a></li>
+        <li><a href="equipe.html" class="active">Équipe</a></li>
+        <li><a href="tarifs.html">Tarifs</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Nos Moniteurs</h2>
+      <div class="team">
+        <div class="person">
+          <img src="https://placehold.co/200x200?text=Julie" alt="Julie - Monitrice">
+          <h3>Julie</h3>
+          <p>Monitrice diplômée, passionnée d'équitation depuis 15 ans.</p>
+        </div>
+        <div class="person">
+          <img src="https://placehold.co/200x200?text=Marc" alt="Marc - Instructeur">
+          <h3>Marc</h3>
+          <p>Instructeur spécialisé en saut d’obstacles et dressage.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Centre Équestre des Collines</p>
+  </footer>
+</body>
+</html>
